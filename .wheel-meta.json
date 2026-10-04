@@ -1,0 +1,19 @@
+{
+  "wheel_id": 321,
+  "structure": "umbrella",
+  "slug": "bestbrisbanerestaurants-com-151",
+  "project": "restaurants-brisbane-b4dd88d1c27c205aa42311246420dd7eb8358c39",
+  "parent_t1_ref": "bestbrisbanerestaurants.com-006",
+  "node_role": "buffer",
+  "money_target": "bestbrisbanerestaurants.com.au",
+  "primary_kw": "restaurants brisbane",
+  "intended_url": "http://restaurants-brisbane-b4dd88d1c27c205aa42311246420dd7eb8358c39.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "writeback_nonce": "513dd7d7b59d9cae",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/bestbrisbanerestaurants.com-006/",
+      "anchor": "restaurants brisbane",
+      "rel": "follow"
+    }
+  ]
+}
